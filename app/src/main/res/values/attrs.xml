@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="address" format="reference" />
+    <declare-styleable name="BitmapAddress">
+        <attr name="address" />
+    </declare-styleable>
+</resources>
